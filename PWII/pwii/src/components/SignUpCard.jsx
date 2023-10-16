@@ -110,12 +110,12 @@ export const SignUpCard = () => {
                     </div>
                 </div>
                 <div className="mt-4">
-                    <Button text="Iniciar Sesión" />
+                    <Button text="Registrate" />
                 </div>
                 <div className="mt-2">
-                    ¿Aún no tienes cuenta?{' '}
+                    ¿Tienes cuenta?{' '}
                     <a className="hover:text-blue-500 hover:underline cursor-pointer font-semibold">
-                        Registrate
+                        Inicia sesión
                     </a>
                 </div>
             </div>
