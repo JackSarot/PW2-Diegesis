@@ -19,13 +19,3 @@ Se trata de una aplicacion que servira para subir archivos de texto haciendo que
 
 ###Instalacion
 Puedes clonar o descargar el proyecto mediante github.
-
--------------
-
-###Carpetas Contenido
-Por el momento las carpetas que contiene el proyecto son
-
-**img** : Que es una carpeta para imagenes.
-**node modules** : Es un directorio que se crea en la carpeta raíz de nuestro proyecto cuando instalamos paquetes o dependencias mediante npm.
-**public**: Contiene archivos que serán leidos por tu navegador mientras desarrollas la aplicación.
-**src** : Caprpeta donde se encuentran todas nuestras paginas.
